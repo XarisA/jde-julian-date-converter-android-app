@@ -67,7 +67,9 @@ public class MainActivity extends AppCompatActivity {
         from_jde_tv.setOnEditorActionListener((v, actionId, event) -> {
             if ((actionId & EditorInfo.IME_MASK_ACTION) != 0) {
                 toNormal = JulianToCalendar(from_jde_tv.getText().toString());
-                to_normal_tv.setText(toNormal.format(formatter));
+                if(toNormal!=null){
+                    to_normal_tv.setText(toNormal.format(formatter));
+                }else{to_normal_tv.setText("Invalid Julian Date");}
 
                 from_jde_tv.setCursorVisible(false);
                 imm = (InputMethodManager) getSystemService(

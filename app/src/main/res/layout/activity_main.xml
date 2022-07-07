@@ -192,7 +192,6 @@
                     android:layout_height="match_parent"
                     android:layout_below="@id/from_jde_tv"
                     android:gravity="center"
-                    android:text="\?"
                     android:textAlignment="center"
                     android:textColor="@color/orange_900"
                     android:textSize="20sp"

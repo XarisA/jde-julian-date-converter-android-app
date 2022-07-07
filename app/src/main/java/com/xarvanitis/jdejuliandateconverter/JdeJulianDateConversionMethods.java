@@ -32,13 +32,17 @@ public class JdeJulianDateConversionMethods {
      * JulianToCalendar: converts a JDEdwards Julian date to a Calendar Date.
      */
     public static LocalDate JulianToCalendar(String julianDate) {
-        LocalDate ld;
+        LocalDate ld = null;
         DateTimeFormatter formatter = new DateTimeFormatterBuilder()
                 .appendValueReduced(ChronoField.YEAR_OF_ERA, 2, 2,
                         1900+100*Character.getNumericValue(julianDate.charAt(0)))
                 .appendPattern("D")
                 .toFormatter();
-        ld = LocalDate.parse(julianDate.substring(1), formatter);
+        try {
+            ld = LocalDate.parse(julianDate.substring(1), formatter);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
         return ld;
     }
 
