@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JDE Julian Date Converter</string>
+    <string name="today">Today</string>
+    <string name="this_month">This Month</string>
+    <string name="from_year_start">From Year Start</string>
+    <string name="enter_jde_julian_date">Enter JDE Julian Date</string>
+    <string name="pick_a_date">Pick a Date</string>
+</resources>

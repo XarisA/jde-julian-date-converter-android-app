@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#FF65d3ff</color>
+    <color name="blue_500">#FF02A2EE</color>
+    <color name="blue_700">#FF0074bb</color>
+    <color name="orange_500">#FFff9700</color>
+    <color name="orange_900">#FFee4d02</color>
+    <color name="dark_view">#79D1D1D1</color>
+    <color name="dark_900">#FF303030</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <color name="grey">#FFF3F3F3</color>
+    <color name="google_red">#FFDD4B39</color>
+</resources>
