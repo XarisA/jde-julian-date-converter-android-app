@@ -332,3 +332,4 @@ obj/
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/java,android,androidstudio,intellij,windows
+app/release/output-metadata.json
