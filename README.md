@@ -27,6 +27,11 @@ Download the APK file from [releases page](https://github.com/XarisA/jde-julian-
 </a>
 
 
+If you only need the java class with the conversion methods, you can use [this gist](https://gist.github.com/XarisA/73c1d8f0faf2e3cf5c6fe1d1442f7e68) .
+
+The JDE Julian Date format specification can be found at [Oracle Help Center](https://docs.oracle.com/cd/E26228_01/doc.93/e21961/julian_date_conv.htm).
+
+
 ### Coming soon
 <a href="https://play.google.com/store/apps/details?id=MY.APP.ID">
     <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
@@ -40,11 +45,6 @@ Download the APK file from [releases page](https://github.com/XarisA/jde-julian-
     height="80">
 </a>
 
-
-
-If you only need the java class with the conversion methods, you can use [this gist](https://gist.github.com/XarisA/73c1d8f0faf2e3cf5c6fe1d1442f7e68) .
-
-The JDE Julian Date format specification can be found at [Oracle Help Center](https://docs.oracle.com/cd/E26228_01/doc.93/e21961/julian_date_conv.htm).
 
 ## Demo
 
