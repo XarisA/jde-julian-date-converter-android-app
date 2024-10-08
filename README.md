@@ -32,19 +32,6 @@ If you only need the java class with the conversion methods, you can use [this g
 The JDE Julian Date format specification can be found at [Oracle Help Center](https://docs.oracle.com/cd/E26228_01/doc.93/e21961/julian_date_conv.htm).
 
 
-### Coming soon
-<a href="https://play.google.com/store/apps/details?id=MY.APP.ID">
-    <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-    alt="Get it on Google Play"
-    height="80">
-</a>
-
-<a href="https://f-droid.org/packages/MY.APP.ID">
-    <img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-    alt="Get it on F-Droid"
-    height="80">
-</a>
-
 
 ## Demo
 
